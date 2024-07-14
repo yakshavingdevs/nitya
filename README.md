@@ -1,5 +1,3 @@
-# Todo
+# Nitya
 
-Aim: The best browser-based todo ever.
-
-Why: [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving)
+Aim: A browser only super app for all your daily habits.
